@@ -17,8 +17,14 @@ export const iconLinks = [
 ];
 
 export const tours = [
-    { id: 1, image: 'tour1', date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
-    { id: 2, image: 'tour2', date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
-    { id: 3, image: 'tour3', date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
-    { id: 4, image: 'tour4', date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
+    { id: 1, image: tour1, date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
+    { id: 2, image: tour2, date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
+    { id: 3, image: tour3, date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
+    { id: 4, image: tour4, date: 'Aug 26th,2024', title: 'Tibet Adventure', info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique corporis fugiat ab, sapiente fugit mollitia!', location: 'China', duration: '6', cost: '2100' },
+];
+
+export const services = [
+    { id: 1, icon: "fa-solid fa-wallet", title: "saving money", text:'Lorem ipsum adipisicing elit.quisquam deleniti quibusdam eum nesciunt maiores.' },
+    { id: 2, icon: "fa-solid fa-tree", title: "endless hiking", text:'Lorem ipsum adipisicing elit.quisquam deleniti quibusdam eum nesciunt maiores.' },
+    { id: 3, icon: "fa-solid fa-socks", title: "amazing comfort", text:'Lorem ipsum adipisicing elit.quisquam deleniti quibusdam eum nesciunt maiores.' },
 ]
